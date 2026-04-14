@@ -1,18 +1,65 @@
+# 👨‍💻 Adriel
 
+Desenvolvedor em formação com foco em backend, criando aplicações robustas e bem estruturadas.
+---
 
-### Olá!! Me chamo Adriel Isaías 😄
+## 🚀 Tecnologias
 
-#### Estudante de Ciência da Computação na UFCG !!
+* **Backend:** Java, Spring Boot, Python
+* **Banco de Dados:** MySQL
+* **APIs:** RESTful APIs
+* **Testes & Automação:** Playwright, Cypress
+* **Ferramentas:** Git, GitHub, Maven
+* **Outros:** Flyway, JPA, Hibernate
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_drielisaias/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](adrielisaias02@gmail.com)
+---
 
+## 📌 Sobre mim
 
+* 🎓 Estudante de Ciência da Computação
+* 💻 Focado no desenvolvimento de soluções backend para automação de processos e otimização de sistemas
+* 🚀 Em constante evolução, com foco em boas práticas e desenvolvimento profissional
 
-## Tecnologias aprendidas
+---
 
+## 🧠 Conhecimentos
 
+* Desenvolvimento de APIs REST
+* Integração com bancos de dados relacionais
+* Estruturação de aplicações com Spring Boot
+* Controle de versão com Git
+* Migração e versionamento de banco com Flyway
+* Automação de testes end-to-end (E2E) com Playwright e Cypress
 
-[![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![css3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
+---
+
+## 📂 Projetos em destaque
+
+### 🔹 Projeto Contabia
+
+Sistema em desenvolvimento voltado para organização de dados e automação de consultas, utilizando Java, Spring Boot e banco de dados relacional.
+
+### 🔹 Outros projetos
+
+Repositórios com foco em prática, testes e evolução contínua em desenvolvimento backend.
+
+---
+
+## 📈 Objetivos
+
+* Aprofundar conhecimentos em backend
+* Evoluir em arquitetura de sistemas e microsserviços
+* Alcançar nível profissional (Júnior)
+* Contribuir em projetos reais
+
+---
+
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adri403\&show_icons=true\&theme=tokyonight\&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adri403\&layout=compact\&theme=tokyonight)
+
+---
+
+⭐ Sempre buscando evolução constante através da prática e estudo.

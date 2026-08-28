@@ -56,9 +56,9 @@ Repositórios com foco em prática, testes e evolução contínua em desenvolvim
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adri403\&show_icons=true\&theme=tokyonight\&cache_seconds=1800)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Adri403&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adri403\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Adri403&layout=compact&theme=tokyonight)
 
 ---
 
